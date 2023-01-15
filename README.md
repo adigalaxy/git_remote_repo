@@ -6,3 +6,4 @@ line 2 from git local
 Changes 2 in git hub
 git push test
 Changes from gi_local machine
+changes to check fetch
